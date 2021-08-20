@@ -1,4 +1,4 @@
-# 讀取對話紀錄
+# 讀取對話紀錄(fb)
 def read_file(filename):
     lines = []
     with open(filename, 'r', encoding='utf-8-sig') as f:
